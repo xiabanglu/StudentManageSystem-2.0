@@ -1,0 +1,95 @@
+[2025-05-24 22:34:25 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 22:35:13 WARNING][unknown] 读取输入时:没有这个选项
+[2025-05-24 22:36:15 WARNING][unknown] 注册user时:用户名和密码已存在,注册失败
+[2025-05-24 22:36:45 INFO][unknown] 保存user信息时:注册user成功
+[2025-05-24 22:37:18 INFO][jierui] jierui 登录成功，权限等级: 1
+[2025-05-24 22:39:02 ERROR][jierui] 添加学生信息时:你的权限不够
+[2025-05-24 22:39:06 ERROR][jierui] 删除学生信息时:你的权限不够
+[2025-05-24 22:39:08 ERROR][jierui] 更新学生信息时:你的权限不够
+[2025-05-24 22:39:55 ERROR][jierui] 查询学生信息时:学生未找到
+[2025-05-24 22:42:06 ERROR][jierui] 查询所有学生信息时:你的权限不够
+[2025-05-24 22:42:14 ERROR][jierui] 学生统计信息时:你的权限不够
+[2025-05-24 22:44:38 ERROR][jierui] 添加学生信息时:你的权限不够
+[2025-05-24 22:44:50 WARNING][jierui] 读取输入时:没有这个选项
+[2025-05-24 22:45:13 ERROR][jierui] 注册管理员时:你的权限不够
+[2025-05-24 22:45:16 ERROR][jierui] 注销user时:你的权限不够
+[2025-05-24 22:45:17 ERROR][jierui] 注销管理员时:你的权限不够
+[2025-05-24 22:45:31 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 22:46:16 ERROR][xiabanglu] 添加学生信息时:输入信息不合法
+[2025-05-24 22:46:59 ERROR][xiabanglu] 添加学生信息时:学生ID已存在,添加失败
+[2025-05-24 22:47:58 INFO][xiabanglu] 保存学生信息时:学生信息添加成功
+[2025-05-24 22:48:15 WARNING][xiabanglu] 删去学生数据时:未找到该学生
+[2025-05-24 22:48:32 INFO][xiabanglu] 删去学生数据时:成功删除学生信息
+[2025-05-24 22:48:57 WARNING][xiabanglu] 更新学生信息时:未找到该学生，无法修改
+[2025-05-24 22:49:18 ERROR][xiabanglu] 更新学生信息时:输入信息不合法
+[2025-05-24 22:49:18 WARNING][xiabanglu] 读取输入时:没有这个选项
+[2025-05-24 22:49:29 ERROR][xiabanglu] 更新学生信息时:输入信息不合法
+[2025-05-24 22:49:44 WARNING][xiabanglu] 删去学生数据时:未找到该学生
+[2025-05-24 22:50:06 WARNING][xiabanglu] 更新学生信息时:未找到该学生，无法修改
+[2025-05-24 22:51:57 ERROR][xiabanglu] 更新学生信息时:输入信息不合法
+[2025-05-24 22:53:34 ERROR][xiabanglu] 添加学生信息时:输入信息不合法
+[2025-05-24 22:54:10 ERROR][xiabanglu] 添加学生信息时:输入信息不合法
+[2025-05-24 22:54:38 WARNING][xiabanglu] 更新学生信息时:未找到该学生，无法修改
+[2025-05-24 22:55:45 INFO][xiabanglu] 更新学生数据时:更新学生信息成功
+[2025-05-24 22:57:25 ERROR][xiabanglu] 查询学生信息时:学生未找到
+[2025-05-24 22:57:35 ERROR][xiabanglu] 查询学生信息时:学生未找到
+[2025-05-24 22:58:45 WARNING][xiabanglu] 注册管理员时:用户名和密码已存在,注册失败
+[2025-05-24 22:59:00 INFO][xiabanglu] 保存admin信息时:注册admin成功
+[2025-05-24 22:59:15 ERROR][xiabanglu] 注销user时:你只能注销user
+[2025-05-24 22:59:41 ERROR][xiabanglu] 注销user时:未找到该user账号
+[2025-05-24 23:00:01 INFO][xiabanglu] 删除user信息时:注销user成功
+[2025-05-24 23:00:12 ERROR][xiabanglu] 注销管理员时:你只能注销admin
+[2025-05-24 23:00:25 ERROR][xiabanglu] 注销管理员时:未找到该管理员账号
+[2025-05-24 23:01:03 ERROR][unknown] 登录时:用户名或密码错误
+[2025-05-24 23:01:18 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:03:26 ERROR][xiabanglu] 统计某同学成绩时:学生未找到
+[2025-05-24 23:29:14 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:29:23 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:29:35 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:29:41 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:30:06 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:31:10 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:31:16 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:31:52 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:32:04 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:32:23 WARNING][xiabanglu] 读取输入时:没有这个选项
+[2025-05-24 23:32:25 WARNING][xiabanglu] 读取输入时:没有这个选项
+[2025-05-24 23:32:32 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:32:40 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:33:23 WARNING][xiabanglu] 读取输入时:没有这个选项
+[2025-05-24 23:33:30 ERROR][xiabanglu] 统计班级成绩时:ID不合法
+[2025-05-24 23:34:20 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:34:25 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:36:36 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:36:43 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:46:20 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:46:29 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:48:19 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:48:30 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:55:43 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:55:55 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-24 23:59:28 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-24 23:59:49 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:06:17 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:06:26 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:08:17 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:08:25 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:08:29 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:08:37 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:09:13 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:09:28 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:13:22 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:13:29 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:14:06 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:19:07 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:19:12 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:19:44 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:19:54 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 00:40:14 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 00:40:23 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 14:27:14 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 14:27:20 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 14:28:02 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 14:28:11 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
+[2025-05-25 14:28:49 INFO][unknown] 加载学生信息时:学生数据加载完成
+[2025-05-25 14:28:56 INFO][xiabanglu] xiabanglu 登录成功，权限等级: 3
